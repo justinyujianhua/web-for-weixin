@@ -1,0 +1,89 @@
+body{
+	background:rgba(174,174,174,0.4);
+	
+}
+hr{
+	margin: 10px;
+}
+a:hover{
+	text-decoration: none;
+}
+.article{
+	width: 360px;
+	margin-top: 30px;
+	margin-left: 20px;
+
+}
+.title{
+	text-align: left;
+	padding:10px; 
+	line-height: 24px;
+	width: 360px;
+	font-size: 16px;
+	font-family: "微软雅黑";
+	font-weight: bold;
+	color: #191b1d;
+	background: #fff;
+	
+}
+.figure img{
+	width:360px;
+	height: 200px;
+	overflow: hidden;
+	box-shadow:0px -6px rgba(38,164,202,0.6);
+	border-radius: 4px 4px 0 0;
+}
+.contentbar{
+	background: #fff;
+	width: 360px;
+	color: #8f9193;
+	font-size: 10px;
+	font-family: "微软雅黑";
+	border-radius: 0 0 4px 4px;
+	
+}
+.time{
+	margin-left: 130px;
+	margin-top: 10px;
+	margin-bottom: 40px;
+	width: 100px;
+  	background: rgba(255,255,255,0.6);
+  	-webkit-border-radius: 28;
+  	-moz-border-radius: 28;
+  	border-radius: 28px;
+ 	 font-family: Arial;
+  	color: #b3b3b3;
+ 	font-size: 20px;
+  	text-decoration: none;
+  	font-size: 12px;
+
+}
+.time p{
+	text-align: center;
+	margin-top: 5px;
+	color:#4e4e4e;
+}
+.abstract{
+	font-size: 14px;
+	margin: 10px;
+	text-indent: 2em;
+	color: #757575;
+}
+.author{
+	padding-left: 10px;
+	text-align: left;
+	font-size: 8px;
+	height: 30px;
+	line-height: 20px;
+	float:left;
+
+}
+.readmore{
+	color: #b6432c;
+	padding-right: 10px;
+	text-align: right;
+	font-size: 8px;
+	height: 30px;
+	line-height: 20px;
+
+}

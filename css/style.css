@@ -1,0 +1,71 @@
+body{
+	background: url("../images/wallpaper99.jpg") no-repeat fixed center;
+	overflow-x: hidden;
+}
+p{
+	color: #fff;
+	font-size: 14px;
+}
+.slogan{
+	margin-top: 10px;
+	margin-left: 80px;
+	
+}
+.slogan p{
+	font-size: 20px;
+	font-family: "微软雅黑";
+}
+.content{
+	position: absolute;
+	right: 300px;
+}
+iframe{
+	box-shadow: 0px 0px 4px #FFFFFF;
+	position: absolute;
+	margin-top: 86px;
+	margin-bottom: 30px;
+}
+.intro{
+	margin-top: 80px;
+}
+.weixin-back{
+	margin-top: 20px;
+	width:402px;
+	height: 66px;
+	background: #2d3540;
+	position: absolute;
+	z-index: 999;
+}
+.back{
+	float: left;
+}
+.weixin-back p{
+	float: right;
+	position: absolute;
+	margin-top: 26px;
+	margin-left: 260px;
+	font-size: 16px;
+
+}
+#search{
+	display: block;
+	width: 140px;
+	height: 30px;
+	background: rgba(0,0,0,.6);
+	font-size: 12px;
+	line-height: 30px;
+	text-align: center;
+	border-radius: 30px;
+}
+.copyright{
+	margin-top: 50px;
+	margin-left: 10px;
+}
+.copyright p{
+	font-size: 10px;
+	color: rgba(0,0,0,.3);
+	cursor: default;
+}
+.copyright p:hover{
+	color: rgba(255,255,255,.6);
+}
